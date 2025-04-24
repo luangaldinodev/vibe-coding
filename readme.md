@@ -1,8 +1,8 @@
 # 🏄‍♂️ Vibe Coding Portfolio
 
-> Navegando pelo código com o espírito do windsurf! 🌊
+> Desenvolvido com a IDE Windsurf - onde o código flui como ondas! 🌊
 
-Um portfólio moderno e minimalista criado com HTML, CSS e JavaScript puro, inspirado na liberdade e fluidez do windsurf.
+Um portfólio moderno e minimalista criado com HTML, CSS e JavaScript puro, desenvolvido utilizando a poderosa IDE Windsurf.
 
 ## ✨ Características
 
@@ -20,16 +20,18 @@ Um portfólio moderno e minimalista criado com HTML, CSS e JavaScript puro, insp
 - JavaScript
 - Particles.js
 - Font Awesome
+- IDE Windsurf
 
-## 🌊 Vibe Coding
+## 🌊 Sobre o Desenvolvimento
 
-Este projeto foi criado seguindo a filosofia "Vibe Coding" - onde a programação flui naturalmente como um windsurfista navegando pelas ondas. Cada elemento foi cuidadosamente posicionado para criar uma experiência fluida e agradável.
+Este projeto foi desenvolvido utilizando a Windsurf IDE, uma ferramenta moderna que torna o processo de desenvolvimento tão fluido quanto surfar nas ondas. Cada elemento foi cuidadosamente codificado aproveitando os recursos únicos que a Windsurf oferece.
 
 ## 🚀 Como usar
 
 1. Clone o repositório
-2. Abra o [index.html](cci:7://file:///c:/Users/luans/CascadeProjects/portfolio-luan-galdino/index.html:0:0-0:0) no seu navegador
-3. Sinta a vibe! 🏄‍♂️
+2. Abra o projeto na Windsurf IDE (recomendado) ou seu editor favorito
+3. Abra o index.html no navegador
+4. Sinta a vibe! 🏄‍♂️
 
 ## 📝 Licença
 
@@ -37,4 +39,4 @@ MIT © [Luan Galdino]
 
 ---
 
-Feito com 🌊 por Luan Galdino
+Feito com 🌊 por Luan Galdino usando Windsurf IDE
